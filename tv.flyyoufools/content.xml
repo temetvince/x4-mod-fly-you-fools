@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<content id="tv.flyyoufools"
+name="Fly, You Fools!"
+author="temetvince"
+version="100"
+date="2023-02-27"
+save="false"
+sync="false"
+enabled="true"
+description="Fly, You Fools!&#13;&#10;&#13;&#10;
+Player tugs quit towing when fleeing.
+&#13;&#10;Player tugs now operate like AI tugs."
+/>
