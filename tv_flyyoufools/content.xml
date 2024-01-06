@@ -1,13 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- <content> is the main tag of content.xml. Its attributes give basic information about your mod. All attributes are optional!
-    id:      must be unique among all installed mods. A good way to ensure this is a system like yourAlias_ModName.
-    name:    The display name of the mod_id. If this tag is omitted, the mods folder name will be used.
-    author:  Your name or alias.
-    version: is the mod version. Versions always have two decimal points. So version="110" is displayed as 1.10 
-    date:    should be the release date of the version 
-    save:    ? 
-    sync:    ? 
-    enabled: If set to "true" or "1", the mod is enabled by default. -->
+
 <content id="tv_flyyoufools"
 name="Fly, You Fools!"
 author="temetvince"
@@ -17,11 +9,6 @@ save="false"
 sync="false"
 enabled="true">
 
-<!-- <text> contains the description of the mod.
-    language:       Is a number identical to the numbers you will find in the t/ folders.
-                    Each number represents a language. E.g. 44 is for the english, 49 for the german language. Leaving language blank will display the text in all languages.
-    description:    Is the description text for your mod.
-                    Special characters must be noted as numeric character references. E.g. a linebreak (\n\r) is denoted as &#13;&#10; -->
 <text language=""
 description="Fly, You Fools!&#13;&#10;
 &#13;&#10;
